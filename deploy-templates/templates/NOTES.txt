@@ -1,0 +1,1 @@
+1. Application my-java-maven-java8 has been successfully deployed!!
